@@ -1,0 +1,2 @@
+# ffxivcfg
+personal synced
