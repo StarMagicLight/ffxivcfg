@@ -1,2 +1,2 @@
 # ffxivcfg
-personal synced
+FF14cfg sync
